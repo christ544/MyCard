@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCard</string>
+    <string name="media">kk44</string>
+    <string name="descri4">télégram</string>
+    <string name="monmail">christkangah14@gmail.com</string>
+    <string name="descri3">gmail</string>
+    <string name="numtel">(+225) 05 88 44 77 88</string>
+    <string name="descri2">numéro de téléphone</string>
+    <string name="profession">étudiant</string>
+    <string name="MonNom">Kangah Christ</string>
+    <string name="descri1">logo android</string>
+</resources>
